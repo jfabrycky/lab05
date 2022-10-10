@@ -9,5 +9,6 @@ tr {color: gray;
   border: 1px solid blue;
   margin: auto;}
 
+td {border: 1px solid blue;}
 iframe {width: 200px;
   height: 200px;}
