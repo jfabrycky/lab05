@@ -8,6 +8,7 @@ margin: auto;}
 tr {color: gray;
   margin: auto;}
 
-td th {border: 3px solid blue;}
+td th {border: 3px solid blue;
+  margin: auto;}
 iframe {width: 200px;
   height: 200px;}
