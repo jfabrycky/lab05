@@ -6,7 +6,8 @@ table {border-right: 5px solid black;
 margin: auto;}
 
 tr {color: gray;
-  border: 1px solid blue;}
+  border: 1px solid blue;
+  margin: auto;}
 
 iframe {width: 200px;
   height: 200px;}
